@@ -2,7 +2,49 @@
 <html>
  <head>
    <meta charset="utf-8">
-   <title>Mon Curiculum Vitae</title>
+   <title>mon cv en html</title>
  </head>
+
  <body>
-   <header>Mélanie PASQUIER</header>
+
+   <header>
+     <h1>Pasquier Mélanie</h1>
+  </header>
+
+  <asside>
+    <h2>Information</h2>
+
+   <ul>
+     <li>22 rue pré d'eau </li>
+     <li>18000 Bourges</li>
+     <li>06.23.34.64.05</li>
+     <li>permis B</li>
+     <li>véhicule personnel</li>
+     <li>melaniepasquier@rocketmail.com</li>
+   </ul>
+
+ </asside>
+
+ <article>
+   <h3>Formation</h3>
+
+   <ol>
+      <li>B.E.P: Technique de l'Architecture et de l'Habitat</li>
+       <p>à Jean de Berry sur Bourges.</p>
+      <li>Bac STI Génie Civil</li>
+       <p>au L.P Gaudier Bzeska à Orléans</p>
+      <li>C.A.P Taille de Pierre</li>
+       <p>en formation FO.RE.PA.BE à La Châtre</p>
+  </OL>
+
+</article>
+   
+
+
+
+
+
+
+
+
+  </nav>
