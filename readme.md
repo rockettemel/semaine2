@@ -20,4 +20,4 @@
 
 <a href="https://www.codecademy.com/fr/users/rockettemel/achievements">Liens</a>
 
-<img src="/images/codecademy/codecademy.jpng">
+<img src="codecademy.png">
