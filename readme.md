@@ -19,3 +19,4 @@
 <h2>Liens des badges sur Codecademy</h2>
 
 <a href="https://www.codecademy.com/fr/users/rockettemel/achievements">Liens</a>
+<img src="/images/codecademy/index/">
